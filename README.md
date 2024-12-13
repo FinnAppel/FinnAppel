@@ -30,3 +30,12 @@ I'm also an enthusiast of **Linux**, regularly creating **scripts** to automate 
 Feel free to check out my repositories! 🚀
 
 If you want to contact me send me a DM on discord. Username is toslowforme.
+
+<br>
+<div align="center">
+
+<a href="https://discord.com/users/1062101281197539359/">
+    <img align="center" src="https://discord.c99.nl/widget/theme-3/1062101281197539359.png">
+</a>
+
+<br>
