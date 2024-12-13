@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # Hi, I'm Finn! 👋
 
 I'm from the Netherlands, and I have a passion for **gaming** and **programming**.
+
 I spend a lot of time coding in **Python**, and I love working on **Arduino** projects.
+
 I'm also an enthusiast of **Linux**, regularly creating **scripts** to automate my system.
 
 - 🏢 Currently working at **BMW Van Poelgeest** in Amsterdam
@@ -26,4 +28,5 @@ I'm also an enthusiast of **Linux**, regularly creating **scripts** to automate 
 - 💻 Always looking for new coding challenges
 
 Feel free to check out my repositories! 🚀
+
 If you want to contact me send me a DM on discord. Username is toslowforme.
