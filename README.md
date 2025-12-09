@@ -20,7 +20,7 @@ I'm from the Netherlands, and I have a passion for **gaming** and **programming*
 
 Feel free to check out my repositories! 🚀
 
-If you want to contact me send me a DM on discord. Username is ToSlowForMe.
+If you want to contact me send me a DM on discord. Username is reinoud-b58
 
 <br>
 <div align="center">
