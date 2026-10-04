@@ -20,7 +20,7 @@ I'm from the Netherlands, and I have a passion for **BMW** and **programming**.
 
 Feel free to check out my repositories! 🚀
 
-If you want to contact me send me a DM on discord. Username is **reinoud_b58**
+If you want to contact me send me a DM on discord. Username is **kalfsbeek**
 
 <br>
 <div align="center">
