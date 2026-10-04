@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Finn! 👋
 
-I'm from the Netherlands, and I have a passion for **gaming** and **programming**.
+I'm from the Netherlands, and I have a passion for **BMW** and **programming**.
 
 Feel free to check out my repositories! 🚀
 
